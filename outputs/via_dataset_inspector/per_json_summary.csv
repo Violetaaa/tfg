@@ -1,0 +1,5 @@
+json,n_images,n_regions,missing_images,invalid_regions,damage_distribution,max_region_area,min_region_area
+lpl/test/lpl_test.json,2,165,0,6,{'1': 165},1648705.0,402.0
+lpl/train/lpl_train.json,6,173,0,4,{'1': 173},1378276.5,128.0
+stucco/test/stucco_test.json,4,745,0,19,{'0': 745},571718.5,140.0
+stucco/train/stucco_train.json,8,1826,0,888,{'0': 1826},976419.5,27.5

@@ -1,0 +1,10 @@
+{
+  "root": "C:\\Users\\Violeta\\dev\\tfg\\Dataset",
+  "json_files": 4,
+  "images": 20,
+  "regions": 2909,
+  "missing_images": 0,
+  "invalid_regions": 917,
+  "export_overlays": true,
+  "export_masks": true
+}
